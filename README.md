@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ez-flove&label=Profile%20views&color=0e75b6&style=flat" alt="ez-flove" /> </p>
 
-<p align="left"> <a href="https://twitter.com/realmadrid" target="blank"><img src="https://img.shields.io/twitter/follow/realmadrid?logo=twitter&style=for-the-badge" alt="realmadrid" /></a> </p>
-
 - 🌱 I’m currently learning **BE, FE and Data.**
 
 - 🤔 **If you really want to do something, i will found a way. If you don't you'll find an excuse.**
