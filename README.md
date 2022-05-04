@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ez-flove</h1>
+<h1 align="center">Hi there 👋, I'm Ngoc Mai Xuan</h1>
 <h3 align="center">Welcome to my Git profile</h3>
 <h3 align="center">A student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam</h3>
 
