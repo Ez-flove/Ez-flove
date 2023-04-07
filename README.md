@@ -10,9 +10,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact: **I think i very friendly**
-
-- 💬 Talk to me about **Code, Games, Memes and anything that interests you...** 🧑‍🚀 🏌️‍
+- 💬 Talk to me about **Codes, Memes and anything that interests you...** 🧑‍🚀 🏌️‍
 
 
 <h3 align="left">Languages and Tools:</h3>
